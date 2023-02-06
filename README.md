@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAKOLAJ
+- 👋 Hi, I’m @SAKOLAJ (Originally Nikolass Sakovics)
 - 👀 I’m interested in Software development, game development and its modding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate as and Junior developer or Intern in a IT company
